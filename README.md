@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Lj"><img src="https://github.com/ljubomirsinadinovski/ljubomirsinadinovski/blob/master/devcard.svg" width="400" alt="Ljubomir Sinadinovski's Dev Card"/></a>
+<a href="https://app.daily.dev/Lj"><img src="https://github.com/ljubomirsinadinovski/ljubomirsinadinovski/blob/main/devcard.svg" width="400" alt="Ljubomir Sinadinovski's Dev Card"/></a>
 
 ### Hi there 👋
 

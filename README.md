@@ -2,7 +2,8 @@
 
 My nickname is Lj, otherwise I am known as Ljubomir Sinadinovski.
 
-📫 For any enquieres you can reach me at: ljupce995@gmail.com
+📫 For any enquieres you can reach me at: ljupce995@gmail.com or my 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ljsinadinovski/)
 
 #### I enjoy reading about technology, check out my DevCard:
 

@@ -13,7 +13,7 @@ My nickname is Lj, otherwise I am known as Ljubomir Sinadinovski.
 
 ### About me
 
-I am a software engineer based in Switzerland, but I did my IT degree in the UK. I want to focus on the business value and end-to-end slices while programming. I think Requirement Engineering is crucial for every IT project. My mindset is not typical for a developer and I am always looking forward to forge new connections. My coding skills are still in development I could judge myself as a mid level developer.
+I am a software engineer based in Switzerland, but I did my IT degree in the UK. My coding skills are still in development I could judge myself as a mid level developer.
 
 ---
 

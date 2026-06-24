@@ -2,18 +2,8 @@
 
 My nickname is Lj, otherwise I am known as Ljubomir Sinadinovski.
 
-📫 For any enquieres you can reach me at: sinadinovski3@gmail.com or my 
+📫 For any enquieres you can reach me at: me@sinadino.com or my 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sinadinovski/)
-
-#### I enjoy reading about technology, check out my DevCard:
-
-<a href="https://app.daily.dev/Lj"><img src="https://github.com/ljubomirsinadinovski/ljubomirsinadinovski/blob/main/devcard.svg" width="400" alt="Ljubomir Sinadinovski's Dev Card"/></a>
-
----
-
-### About me
-
-I am a software engineer based in Switzerland, but I did my IT degree in the UK. My coding skills are still in development I could judge myself as a mid level developer.
 
 ---
 
